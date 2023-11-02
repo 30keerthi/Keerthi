@@ -8,7 +8,7 @@
 
 - 🖥️ I’m currently learning **Deep Learning, AI, LLM**
 
-- 👨‍💻 All of my projects are available at [https://github.com/30keerthi](https://github.com/30keerthi)
+- 👨‍💻 All of my Data Science projects are available at [https://github.com/30keerthi/Data-Science-Projects](https://github.com/30keerthi/Data-Science-Projects)
 
 - 💬 Ask me about **Machine Learning**
 
